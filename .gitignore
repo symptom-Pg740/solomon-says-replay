@@ -1,6 +1,9 @@
-# capacitor
+# native builds (no longer used)
 android
 ios
+
+# lockfile (using pnpm)
+package-lock.json
 
 # Logs
 logs
