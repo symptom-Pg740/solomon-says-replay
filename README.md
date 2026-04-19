@@ -1,8 +1,8 @@
-# Simon Says Replay
+# Solomon Memory Challenge
 
-![Simon Says Replay](game_screenshot.png)
+![Solomon Memory Challenge](game_screenshot.png)
 
-Simon Says Replay is an addictive memory game that will test your ability to remember and replicate sequences of colors and sounds. Challenge yourself and see how far you can go!
+Solomon Memory Challenge is an addictive memory game that will test your ability to remember and replicate sequences of colors and sounds. Challenge yourself and see how far you can go!
 
 ## Features
 
@@ -13,11 +13,11 @@ Simon Says Replay is an addictive memory game that will test your ability to rem
 
 ## How to Play
 
-1. Download and install Simon Says Replay from the [Google Play Store](https://playstorelinkgoeshere).
+1. Download and install Solomon Memory Challenge from the [Google Play Store](https://playstorelinkgoeshere).
 
 2. Launch the game and get ready to play!
 
-3. Simon, the game host, will present a sequence of colors and sounds.
+3. The game will present a sequence of colors and sounds.
 
 4. Memorize the sequence and then repeat it by tapping the corresponding colors.
 
@@ -25,7 +25,7 @@ Simon Says Replay is an addictive memory game that will test your ability to rem
 
 6. Make a mistake and it's game over! Try to beat your own high score and challenge your friends.
 
-7. Have fun and exercise your brain with Simon Says Replay!
+7. Have fun and exercise your brain with Solomon Memory Challenge!
 
 ## Screenshots
 
@@ -34,7 +34,7 @@ Simon Says Replay is an addictive memory game that will test your ability to rem
 
 ## Feedback and Contributions
 
-Have any feedback, suggestions, or found a bug? Feel free to open an [issue](https://github.com/your-username/simon-says-replay/issues) or submit a pull request. Contributions are always welcome!
+Have any feedback, suggestions, or found a bug? Feel free to open an [issue](https://github.com/yassermuayed/solomon-memory-challenge/issues) or submit a pull request. Contributions are always welcome!
 
 ## License
 
@@ -42,4 +42,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Enjoy the game and test your memory skills! Download Simon Says Replay now and embark on a captivating memory challenge!
+Enjoy the game and test your memory skills! Download Solomon Memory Challenge now and embark on a captivating memory challenge!

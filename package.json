@@ -1,7 +1,7 @@
 {
-  "name": "Simon Memory Challenge",
+  "name": "Solomon Memory Challenge",
   "version": "3.0.0",
-  "description": "Simon Says Replay is an engaging and addictive npm package that brings back the classic memory game experience to your fingertips. Test your memory skills and challenge yourself to remember and replicate sequences of colors and sounds in this captivating game. With a sleek and intuitive interface, Simon Says Replay offers an immersive gameplay experience that will keep you entertained for hours. Whether you're a casual player looking for a fun way to pass the time or a memory enthusiast seeking to sharpen your cognitive abilities, Simon Says Replay is the perfect choice. Get ready to exercise your brain, master the sequences, and become the ultimate memory champion with Simon Says Replay!",
+  "description": "Solomon Memory Challenge is an engaging and addictive npm package that brings back the classic memory game experience to your fingertips. Test your memory skills and challenge yourself to remember and replicate sequences of colors and sounds in this captivating game. With a sleek and intuitive interface, Solomon Memory Challenge offers an immersive gameplay experience that will keep you entertained for hours. Whether you're a casual player looking for a fun way to pass the time or a memory enthusiast seeking to sharpen your cognitive abilities, Solomon Memory Challenge is the perfect choice. Get ready to exercise your brain, master the sequences, and become the ultimate memory champion with Solomon Memory Challenge!",
   "main": "/src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yassermuayed/simon-says-replay.git"
+    "url": "git+https://github.com/yassermuayed/solomon-memory-challenge.git"
   },
   "keywords": [
     "memory game",
-    "Simon Says",
+    "Solomon Memory Challenge",
     "sequence",
     "colors",
     "sounds",
@@ -40,11 +40,10 @@
   "author": "Yasser Muayed",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yassermuayed/simon-says-replay/issues"
+    "url": "https://github.com/yassermuayed/solomon-memory-challenge/issues"
   },
-  "homepage": "https://github.com/yassermuayed/simon-says-replay#readme",
+  "homepage": "https://github.com/yassermuayed/solomon-memory-challenge#readme",
   "devDependencies": {
-    "@capacitor/cli": "^5.4.2",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.8.1",
     "eslint": "^8.45.0",
@@ -60,9 +59,5 @@
     "webpack": "^5.85.1",
     "webpack-cli": "^5.1.3",
     "webpack-dev-server": "^4.15.0"
-  },
-  "dependencies": {
-    "@capacitor/android": "^5.4.2",
-    "@capacitor/core": "^5.4.2"
   }
 }

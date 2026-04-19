@@ -26,7 +26,7 @@ module.exports = {
 
   plugins: [
     new HtmlWebpackPlugin({
-      title: "Simon Memory Challenge",
+      title: "Solomon Memory Challenge",
       template: "./src/template.ejs",
       // favicon: "./dist/favicon.ico",
     }),

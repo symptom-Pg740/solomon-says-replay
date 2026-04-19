@@ -1,7 +1,7 @@
 {
     "id": "/",
-    "name": "Simon Memory Challenge",
-    "short_name": "Simon Memory Challenge",
+    "name": "Solomon Memory Challenge",
+    "short_name": "Solomon Memory Challenge",
     "description": "A description for your application",
     "display": "standalone",
     "display_override": [
